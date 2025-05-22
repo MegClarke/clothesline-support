@@ -1,3 +1,5 @@
+title: Clothesline UCLA Support & Community Guidelines
+
 # Clothesline UCLA Support & Community Guidelines
 
 If you encounter any issues—whether it’s harassment, offensive content, impersonation, or other user-to-user problems—here’s how we’ll help:
